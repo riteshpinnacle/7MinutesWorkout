@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">7MinutesWorkout</string>
+    <string name="image">start image</string>
+    <string name="_10">10</string>
+    <string name="_30">30</string>
+    <string name="exercisename">ExerciseName</string>
+    <string name="upcoming_exercise">UPCOMING EXERCISE:</string>
+    <string name="_1">1</string>
+    <string name="long_text">This will stop your workout. You\'ve come this far, are you sure you want to quit?</string>
+</resources>
